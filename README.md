@@ -38,10 +38,6 @@ Challenge your vocabulary skills with this sleek, animated word-guessing game!
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 
-- **HTML5**: Semantic structure and game layout
-- **CSS3**: Modern styling with Flexbox, animations, and responsive design
-- **Vanilla JavaScript**: Game logic without external dependencies
-- **Font Awesome**: Beautiful icons for enhanced UI
 - **LocalStorage**: Persistent score tracking
 
 ## 📁 Project Structure
