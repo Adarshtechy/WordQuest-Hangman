@@ -63,7 +63,7 @@ wordquest-hangman/
 git clone https://github.com/Adarshtechy/WordQuest-Hangman.git
 
 # Navigate to project
-cd wordquest-hangman
+cd WordQuest-Hangman
 
 # Open in browser
 open index.html
