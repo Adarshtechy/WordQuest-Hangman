@@ -56,10 +56,10 @@ wordquest-hangman/
 ### Method 1: Direct Download
 ```bash
 # Clone the repository
-git clone https://github.com/Adarshtechy/WordQuest-Hangman.git
+git clone https://github.com/Adarshtechy/wordquest-hangman.git
 
 # Navigate to project
-cd WordQuest-Hangman
+cd wordquest-hangman
 
 # Open in browser
 open index.html
